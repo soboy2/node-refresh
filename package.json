@@ -1,0 +1,16 @@
+{
+  "name": "node-refresh",
+  "version": "0.0.1",
+  "description": "Using Socket.IO to trigger page and file reloads",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Sho",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~4.6.1",
+    "socket.io": "~1.0.6"
+  }
+}
